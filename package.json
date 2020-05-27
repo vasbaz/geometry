@@ -1,0 +1,27 @@
+{
+  "name": "@vasbaz/geometry",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "build": "node-sass --output-style expanded scss/ -o dist/css/",
+    "lint": "stylelint --fix ./scss"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vasbaz/geometry.git"
+  },
+  "author": "Danila Vasilchenko-Bazarov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vasbaz/geometry/issues"
+  },
+  "homepage": "https://github.com/vasbaz/geometry#readme",
+  "devDependencies": {
+    "node-sass": "^4.14.1",
+    "prettier": "^2.0.5",
+    "stylelint": "^13.5.0",
+    "stylelint-config-prettier": "^8.0.1",
+    "stylelint-config-standard": "^20.0.0",
+    "stylelint-prettier": "^1.1.2"
+  }
+}
