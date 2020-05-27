@@ -1,6 +1,6 @@
 {
   "name": "@vasbaz/geometry",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "scripts": {
     "build": "node-sass --output-style expanded scss/ -o dist/css/",
