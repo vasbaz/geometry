@@ -1,6 +1,6 @@
 {
   "name": "@vasbaz/geometry",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "",
   "scripts": {
     "build": "node-sass --output-style expanded scss/ -o dist/css/",
@@ -17,10 +17,10 @@
   },
   "homepage": "https://github.com/vasbaz/geometry#readme",
   "devDependencies": {
-    "node-sass": "^4.14.1",
-    "prettier": "^2.0.5",
-    "stylelint": "^13.5.0",
-    "stylelint-config-prettier": "^8.0.1",
+    "node-sass": "^5.0.0",
+    "prettier": "^2.2.1",
+    "stylelint": "^13.8.0",
+    "stylelint-config-prettier": "^8.0.2",
     "stylelint-config-standard": "^20.0.0",
     "stylelint-prettier": "^1.1.2"
   }
